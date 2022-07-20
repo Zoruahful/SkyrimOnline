@@ -8,8 +8,8 @@
   "GameName": "SkyrimSpecialEdition",
   "ModManager": 0,
   "ModManagerName": "MO2",
-  "DownloadSize": 928529954,
-  "InstallSize": 2463278001,
+  "DownloadSize": 1626352205,
+  "InstallSize": 3435624758,
   "IsNSFW": false,
   "Archives": [
     {
@@ -23,6 +23,106 @@
         "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z",
         "Headers": [],
         "PrimaryKeyString": "HTTPDownloader+State|https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "FFYwhskKRow=",
+      "Meta": null,
+      "Name": "Apocalypse v945-1090-9-45.zip",
+      "Size": 57338257,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Apocalypse - Magic of Skyrim",
+        "Author": "Enai Siaion",
+        "Version": "9.45.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/16225-0-1468717885.jpg",
+        "IsNSFW": false,
+        "Description": "Apocalypse is the most popular Skyrim spell pack, adding 155 new spells that are unique, balanced, lore friendly, use high quality custom visuals and blend seamlessly into the vanilla magic system. Also includes scrolls and staves for the new spells.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 1090,
+        "FileID": 40668,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|1090|40668"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "bIhYPyiIhQQ=",
+      "Meta": null,
+      "Name": "Apocalypse - Ordinator Compatibility Patch WHY DO I HAVE TO CHANGE THE NAME-1090-.zip",
+      "Size": 7566,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Apocalypse - Magic of Skyrim",
+        "Author": "Enai Siaion",
+        "Version": "9.45.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/16225-0-1468717885.jpg",
+        "IsNSFW": false,
+        "Description": "Apocalypse is the most popular Skyrim spell pack, adding 155 new spells that are unique, balanced, lore friendly, use high quality custom visuals and blend seamlessly into the vanilla magic system. Also includes scrolls and staves for the new spells.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 1090,
+        "FileID": 27126,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|1090|27126"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "YOyNt9im2ko=",
+      "Meta": null,
+      "Name": "Arcanum - Main File-23488-4-0-1-1610256615.7z",
+      "Size": 535388643,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Arcanum - A New Age of Magic",
+        "Author": "Kosorsomesaykosm",
+        "Version": "4.0.1.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/23488/23488-1610256199-473556267.png",
+        "IsNSFW": false,
+        "Description": "Years in the making, Arcanum is a massive spell mod that aims to combine unique gameplay with visual effects of a quality never attempted before in Skyrim. With 200 spells complete, 300+ spells planned, and inspired by everything from Dragon's Dogma to Planescape, Arcanum may be the most ambitious magic mod ever made.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 23488,
+        "FileID": 178698,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|23488|178698"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "oxg88YFT+uc=",
+      "Meta": null,
+      "Name": "Buff Others SSE-22983-1-1-1657394360.rar",
+      "Size": 141465,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Buff Others for Skyrim Together SSE",
+        "Author": "Jinxxed0",
+        "Version": "1.1.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22983/90879-1548703181-1938850361.png",
+        "IsNSFW": false,
+        "Description": "Adds spells that allow you to buff other players and NPCs with things like magic resistance, water walking, and other stuff.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 22983,
+        "FileID": 297557,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|22983|297557"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "roq2m6uP2Pk=",
+      "Meta": null,
+      "Name": "Growl 3.0.0-31245-3-0-0-1642767946.zip",
+      "Size": 148334,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Growl - Werebeasts of Skyrim",
+        "Author": "Enai Siaion",
+        "Version": "3.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31245/31245-1577300688-2074823911.jpeg",
+        "IsNSFW": false,
+        "Description": "Growl is a lightweight werewolf and werebear overhaul. Better werebeast combat, scaling, experience gain, reworked perks, synergies between beast and mortal form, lunar transformations, werebears and many quality of life improvements. Growl makes werebeasts a viable choice without \"taking over\" or imbalancing the game.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 31245,
+        "FileID": 258354,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|31245|258354"
       }
     },
     {
@@ -47,6 +147,26 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
+      "Hash": "P9CkyuGwZUk=",
+      "Meta": null,
+      "Name": "Mealtime - Immersive Food-30128-1-0-1-1572650091.rar",
+      "Size": 5432,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Mealtime - A simple ESO inspired Food Overhaul",
+        "Author": "SaiMika",
+        "Version": "1.0.1.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/30128/30128-1572630107-1715726531.png",
+        "IsNSFW": false,
+        "Description": "Immerse yourself with meals that now provide prolonged benefits, separate to alchemy effects. A full adventurer is a happy adventurer.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 30128,
+        "FileID": 112154,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|30128|112154"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
       "Hash": "pp17mSXTeQ8=",
       "Meta": null,
       "Name": "Vanilla Armors - Replacer Edition-31679-1-02-1593188146.rar",
@@ -63,6 +183,46 @@
         "ModID": 31679,
         "FileID": 147524,
         "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|31679|147524"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "8WW0837UmbE=",
+      "Meta": null,
+      "Name": "Open Wayshrines for SWIFT - tidy - Skyrim Wayshrines Immersive Fast Travel-30372-1-0-0-1573794480.rar",
+      "Size": 438969,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Open Wayshrines Add-on for SWIFT -  Skyrim Wayshrines Immersive Fast Travel",
+        "Author": "SaiMika",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/30372/30372-1573793796-1491979468.png",
+        "IsNSFW": false,
+        "Description": "Opens up the walls of the snow elf wayshrines, and (optionally) tidies up the shrines themselves. A huge thank you to LeanWolf for the amazing open wayshrine model.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 30372,
+        "FileID": 113440,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|30372|113440"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "wg6EOnTv1AM=",
+      "Meta": null,
+      "Name": "Ordinator 9.31.0-1137-9-31-0-1635693140.zip",
+      "Size": 11197759,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Ordinator - Perks of Skyrim",
+        "Author": "Enai Siaion",
+        "Version": "9.31.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1137-0-1498676465.png",
+        "IsNSFW": false,
+        "Description": "Ordinator overhauls the perk trees of Skyrim to increase the depth and fun of character building. It is highly compatible with other mods and uses lightweight and clean scripting.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 1137,
+        "FileID": 238199,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|1137|238199"
       }
     },
     {
@@ -87,6 +247,86 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
+      "Hash": "Si/751faHxI=",
+      "Meta": null,
+      "Name": "Sacrosanct 5.17.0-3928-5-17-0-1607468103.zip",
+      "Size": 20528375,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Sacrosanct - Vampires of Skyrim",
+        "Author": "Enai Siaion",
+        "Version": "5.17.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/3928/3928-1518951969-1454136796.jpeg",
+        "IsNSFW": false,
+        "Description": "Sacrosanct overhauls vampires and vampire lords. Reverse progression (stronger when fed), new abilities, powers, perks, hemomancy, various new progression systems and many gameplay tweaks for the discerning undead monster.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 3928,
+        "FileID": 173876,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|3928|173876"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "U8ERLCjfm3E=",
+      "Meta": null,
+      "Name": "SkyrimTogether Plus Main-23516-1-0-4-1576353442.zip",
+      "Size": 124485,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "SkyrimTogether Plus",
+        "Author": "PoPoWanObi",
+        "Version": "1.0.4.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/23516/23516-1550425136-986178734.jpeg",
+        "IsNSFW": false,
+        "Description": "ST+ or Skyrim Together Plus is an expansion mod designed for the sole purpose of being used in synergy with Skyrim Together. It provides game-play improving additions and changes to make the multiplayer experience better.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 23516,
+        "FileID": 116186,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|23516|116186"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "V+SVj2u0CJg=",
+      "Meta": null,
+      "Name": "SWIFT SE 3.2.6-17905-3-2-6-1637045527.zip",
+      "Size": 42930806,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Skyrim Wayshrines - Immersive Fast Travel - SWIFT SE",
+        "Author": "Pharros",
+        "Version": "3.2.6.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17905/17905-1528606107-1684635254.png",
+        "IsNSFW": false,
+        "Description": "A brand new fast travel network created with lore-friendliness and immersion in mind. Best of all it features ZERO time transition, which is most suitable for any weather and needs survivalist out there.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 17905,
+        "FileID": 241879,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|17905|241879"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "SEkutdgFHpA=",
+      "Meta": null,
+      "Name": "Skyshards v1.6.0-60748-1-6-0-1640462572.7z",
+      "Size": 19455913,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Skyshards",
+        "Author": "Deadmano",
+        "Version": "1.6.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60748/82660-0-1489160674.jpg",
+        "IsNSFW": false,
+        "Description": "Skyshards brings the joy of Skyshard hunting based on the MMO \"The Elder Scrolls Online\" (ESO) to Skyrim!\n\nEvery 3 (default) Skyshards absorbed rewards you with a perk point to invest as you please.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 60748,
+        "FileID": 251721,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|60748|251721"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
       "Hash": "dF2yafV2Oks=",
       "Meta": null,
       "Name": "SkyUI_5_2_SE-12604-5-2SE.7z",
@@ -103,6 +343,26 @@
         "ModID": 12604,
         "FileID": 35407,
         "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|12604|35407"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "NzSZqkPWpe8=",
+      "Meta": null,
+      "Name": "Smooth Random Jump Animation-59633-2-1-1639321705.zip",
+      "Size": 2774561,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Smooth Random Jump Animation",
+        "Author": "Smooth",
+        "Version": "2.1.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59633/59633-1638825446-1333732560.gif",
+        "IsNSFW": false,
+        "Description": "Random Jump Animation",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 59633,
+        "FileID": 248528,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|59633|248528"
       }
     },
     {
@@ -247,6 +507,26 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
+      "Hash": "cwJM6jWA+Tw=",
+      "Meta": null,
+      "Name": "XP32 Maximum Skeleton Special Extended-1988-4-80-1610196777.7z",
+      "Size": 2376740,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "XP32 Maximum Skeleton Special Extended - XPMSSE",
+        "Author": "Team XPMSE",
+        "Version": "4.80.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1988/1988-1543819769-456431788.jpeg",
+        "IsNSFW": true,
+        "Description": "XP32 Maximum Skeleton Special  Extended is the update of XP32 Maximum Skeleton Extended for Skyrim Special Edition.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 1988,
+        "FileID": 178559,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|1988|178559"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
       "Hash": "Fr7yE/Rqxvs=",
       "Meta": null,
       "Name": "QUI-AE-65343-0-3-0-1656459665.zip",
@@ -263,6 +543,26 @@
         "ModID": 65343,
         "FileID": 294862,
         "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|65343|294862"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "lqMbb+Jdj0E=",
+      "Meta": null,
+      "Name": "Remove QuickSave Button-28334-1-1-1566642678.7z",
+      "Size": 1733464,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Remove QuickSave Button from SkyUI System Menu",
+        "Author": "uranreactor",
+        "Version": "1.1.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28334/28334-1566111510-1423328506.png",
+        "IsNSFW": false,
+        "Description": "This small mod removes the \"Quick Save\" button from System Menu (esc), that was added in SE.\n\nYou can now normally exit your game without scrolling in System Menu.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 28334,
+        "FileID": 104133,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|28334|104133"
       }
     },
     {
@@ -307,6 +607,46 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
+      "Hash": "aGn0XjzQdu0=",
+      "Meta": null,
+      "Name": "Animation Motion Revolution-50258-1-5-AE-1643568206.rar",
+      "Size": 261211,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Animation Motion Revolution",
+        "Author": "alexsylex",
+        "Version": "1.5.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50258/50258-1621685673-1805072304.png",
+        "IsNSFW": false,
+        "Description": "This SKSE plugin removes the mismatch between displacement and custom animations driven by motion data (the infamous ice-skating problem). Welcome to 2021 guys.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 50258,
+        "FileID": 260538,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|50258|260538"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "pE1DYxelG+M=",
+      "Meta": null,
+      "Name": "Better Jumping AE-18967-1-8-4-1653053551.zip",
+      "Size": 167678,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Better Jumping SE",
+        "Author": "meh321 and z65536",
+        "Version": "1.8.4.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18967/18967-1533041476-1512034262.jpeg",
+        "IsNSFW": false,
+        "Description": "Allows to jump while sprinting. Also you can configure jump height multiplier, how many times you can jump (double jump like in action games) . No ESP!",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 18967,
+        "FileID": 285113,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|18967|285113"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
       "Hash": "1Daw/38vTQM=",
       "Meta": null,
       "Name": "Disable Fast Travel-54217-1-0-1-1637609066.zip",
@@ -323,6 +663,46 @@
         "ModID": 54217,
         "FileID": 243536,
         "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|54217|243536"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "szOA5XL58TQ=",
+      "Meta": null,
+      "Name": "DynamicAnimationReplacer v1.1.2 for SkyrimAE-33746-1-1-2-1640873618.7z",
+      "Size": 163254,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Dynamic Animation Replacer",
+        "Author": "Felisky",
+        "Version": "1.1.2.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33746/33746-1584612933-181831047.png",
+        "IsNSFW": false,
+        "Description": "This mod dynamically replaces the actors' animations depending on various conditions. Supports most actors, including creatures. Actors and animations added by mods are also supported. No ESP file.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 33746,
+        "FileID": 252668,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|33746|252668"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "Suo0+RQc9gs=",
+      "Meta": null,
+      "Name": "VR Address Library-58101-0-36-0-1654928138.7z",
+      "Size": 24395,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "VR Address Library for SKSEVR",
+        "Author": "alandtse",
+        "Version": "0.36.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58101/58101-1636346500-1172135015.png",
+        "IsNSFW": false,
+        "Description": "VR Address Library database for end users. This is intended as a VR replacement for Address Library for SKSE for mods designed for it. Only download if the mod says this is a requirement. It is currently an alpha.\n\n\n\nThis is not for SSE. This is different from Address Library for SKSE.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 58101,
+        "FileID": 290348,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|58101|290348"
       }
     },
     {
@@ -344,286 +724,1006 @@
         "FileID": 272174,
         "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|65433|272174"
       }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "6pmk7E0xbwY=",
+      "Meta": null,
+      "Name": "No Wait Function and No Console Command-71445-0-0-1-1657902899.zip",
+      "Size": 2735,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "No Wait Function and No Console Button - For Skyrim Together Reborn",
+        "Author": "Mailoko",
+        "Version": "0.0.1.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/71445/71445-1657902983-1031932822.png",
+        "IsNSFW": false,
+        "Description": "Remove shortcut key for commands admin and wait time",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 71445,
+        "FileID": 299184,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|71445|299184"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "5rREdBIHrgY=",
+      "Meta": null,
+      "Name": "Goetia Animations - Enchanted Staves-71110-1-51-1657727300.7z",
+      "Size": 255415,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Goetia Animations - Enchanted Staves",
+        "Author": "Verolevi",
+        "Version": "1.51.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/71110/112495-1657457209-873925596.png",
+        "IsNSFW": false,
+        "Description": "Hand made animations that completely overhaul Skyrim's 3rd person enchanted staff playstyles, designed to work with hybrid playstyles as well (staff+melee or staff+spell), requires DAR.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 71110,
+        "FileID": 298623,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|71110|298623"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "dwioK5AVUIs=",
+      "Meta": null,
+      "Name": "Goetia Animations - Magic Spell Casting-70204-1-4-1656370500.7z",
+      "Size": 555513,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Goetia Animations - Magic Spell Casting",
+        "Author": "Verolevi",
+        "Version": "1.4.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/70204/112311-1656024006-233917820.png",
+        "IsNSFW": false,
+        "Description": "At 110 animation files made from scratch (v1.0), I'm glad to finally bring you this 3rd person spell casting animation overhaul, works for all spell categories and for spellsword/hybrid playstyles, requires DAR.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 70204,
+        "FileID": 294546,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|70204|294546"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "mKhCJLnP6G4=",
+      "Meta": null,
+      "Name": "Leviathan Animations - Two-Handed High Stance SE-47092-1-4-1622760836.7z",
+      "Size": 140195,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Leviathan Animations - Two-Handed High Stance",
+        "Author": "Verolevi",
+        "Version": "1.4.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47092/47092-1615925724-46826154.png",
+        "IsNSFW": false,
+        "Description": "Replaces vanilla unsheathe, idle, block, turn, walk, run, sprint and sheathe animations for two-handed weapons (swords, hammers and axes) with a high stance variant.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 47092,
+        "FileID": 207135,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|47092|207135"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "YdcJj52B/c0=",
+      "Meta": null,
+      "Name": "Leviathan Animations - Two-Handed Normal Attacks For High Stance-48550-1-2-1622761129.7z",
+      "Size": 92321,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Leviathan Animations - Two-Handed Normal Attacks",
+        "Author": "Verolevi",
+        "Version": "1.2.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/48550/107364-1618409462-1444668307.jpeg",
+        "IsNSFW": false,
+        "Description": "Replaces vanilla normal attack animations for two-handed weapons (swords, hammers and axes).",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 48550,
+        "FileID": 207136,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|48550|207136"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "OPGe4/Rhcgo=",
+      "Meta": null,
+      "Name": "Leviathan Animations - Two-Handed Power Attacks For High Stance-50545-1-3-1622761240.7z",
+      "Size": 91768,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Leviathan Animations - Two-Handed Power Attacks",
+        "Author": "Verolevi",
+        "Version": "1.3.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50545/50545-1622241947-960054493.jpeg",
+        "IsNSFW": false,
+        "Description": "Replaces vanilla power attack animations for two-handed weapons (swords, hammers and axes).",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 50545,
+        "FileID": 207137,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|50545|207137"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "7zvo/TEb5hk=",
+      "Meta": null,
+      "Name": "Vanargand Animations - Archery-60323-1-0-1639867022.7z",
+      "Size": 129031,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Vanargand Animations - Archery",
+        "Author": "Verolevi",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60323/110174-1639866712-1718183336.gif",
+        "IsNSFW": false,
+        "Description": "Without requirements, these animations will completely replace, while holding a bow, the Idle, walk, run, turn left/right, Sprint, draw arrow, drawn arrow idle, drawn arrow walk/turn, arrow release, equip and unequip, includes belt fasted quiver animations.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 60323,
+        "FileID": 250155,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|60323|250155"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "V+E/+Uh1GUQ=",
+      "Meta": null,
+      "Name": "Vanargand Animations - Dual Wield Attacks-63566-1-0-1644786147.7z",
+      "Size": 90538,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Vanargand Animations - Dual Wield Attacks",
+        "Author": "Verolevi",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/63566/63566-1645308831-504869179.png",
+        "IsNSFW": false,
+        "Description": "I'm glad to finally bring you this vanilla replacer dual wield combat set, this was quite fun and really challenging to make and has at last reached a quality state I'm happy with.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 63566,
+        "FileID": 263925,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|63566|263925"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "5VPtITLcXvY=",
+      "Meta": null,
+      "Name": "Vanargand Animations - One handed Mid Stance-57544-1-2-1637000570.7z",
+      "Size": 94960,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Vanargand Animations - One Handed Mid Stance",
+        "Author": "Verolevi",
+        "Version": "1.2.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57544/57544-1635282421-144974775.gif",
+        "IsNSFW": false,
+        "Description": "These animations will replace, While holding a one-handed weapon in the right hand, the idle, walk, run, strafe, sprint, turn left/right and sword equip/unequip, including dual wielding.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 57544,
+        "FileID": 241755,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|57544|241755"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "bUFtrvmCghk=",
+      "Meta": null,
+      "Name": "Vanargand Animations - One handed Normal Attacks-58326-1-1-1636745710.7z",
+      "Size": 61671,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Vanargand Animations - One Handed Normal Attacks",
+        "Author": "Verolevi",
+        "Version": "1.1.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58326/58326-1636905118-1182667627.gif",
+        "IsNSFW": false,
+        "Description": "These animations will replace vanilla normal attack animations for one-handed weapons while standing still or moving in any direction. No requirements.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 58326,
+        "FileID": 240854,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|58326|240854"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "j8toidzlT/U=",
+      "Meta": null,
+      "Name": "Vanargand Animations - One Handed Power Attacks-58997-1-2-1637780789.7z",
+      "Size": 29041,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Vanargand Animations - One Handed Power Attacks",
+        "Author": "Verolevi",
+        "Version": "1.2.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58997/58997-1637780549-817569447.gif",
+        "IsNSFW": false,
+        "Description": "Replaces vanilla power attack animations for one-handed weapons while standing still or while moving in any direction. Using Animation Motion Revolution for custom motion data.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 58997,
+        "FileID": 244110,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|58997|244110"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "1SdNxOepXo0=",
+      "Meta": null,
+      "Name": "Goetia Animations - Female Idle Walk And Run-68005-1-2-1656538843.7z",
+      "Size": 90384,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Goetia Animations - Female Idle Walk And Run",
+        "Author": "Verolevi",
+        "Version": "1.2.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68005/111863-1652480787-1039837043.jpeg",
+        "IsNSFW": false,
+        "Description": "Animation pack for female characters. no requirement replacer version and DAR version.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 68005,
+        "FileID": 295055,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|68005|295055"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "Qzy/GEphVD4=",
+      "Meta": null,
+      "Name": "Goetia Animations - Male Idle Walk And Run-68625-1-2-1656609600.7z",
+      "Size": 90552,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Goetia Animations - Male Idle Walk And Run",
+        "Author": "Verolevi",
+        "Version": "1.2.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68625/112018-1653508863-1607713107.jpeg",
+        "IsNSFW": false,
+        "Description": "Goetia Animation pack for male characters, no requirement replacer version and DAR version.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 68625,
+        "FileID": 295227,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|68625|295227"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "2ViasXL3Qz0=",
+      "Meta": null,
+      "Name": "Goetia Animations - Sprint-69409-1-0-1654812257.7z",
+      "Size": 6805,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Goetia Animations - Sprint",
+        "Author": "Verolevi",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69409/112148-1654811422-463625442.png",
+        "IsNSFW": false,
+        "Description": "Sprint animations for male and female characters (PC and NPCs), DAR version and simple no requirement replacer version.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 69409,
+        "FileID": 290049,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|69409|290049"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "0CWWY6paJZM=",
+      "Meta": null,
+      "Name": "Vanargand Animations - Crossbows-66286-1-0-1649585426.7z",
+      "Size": 149941,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Vanargand Animations - Crossbows",
+        "Author": "Verolevi",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/66286/66286-1649585221-1733104318.png",
+        "IsNSFW": false,
+        "Description": "Replaces crossbow animations and fixes jittery crossbow aim direction while moving and/or turning.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 66286,
+        "FileID": 276124,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|66286|276124"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "Z9MCH5kGxaY=",
+      "Meta": null,
+      "Name": "Vanargand Animations - Dual Wield Sneak Strikes-64216-1-0-1645813777.7z",
+      "Size": 80119,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Vanargand Animations - Dual Wield Sneak Strikes",
+        "Author": "Verolevi",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64216/64216-1645813594-1405186713.png",
+        "IsNSFW": false,
+        "Description": "Replaces sneak attacks and movement animations while Dual Wielding (Left hand, right hand and dual hand normal and power attacks) and holding an axe/mace, using DAR and AMR.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 64216,
+        "FileID": 266708,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|64216|266708"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "bD/1m2xzC0Q=",
+      "Meta": null,
+      "Name": "Vanargand Animations - Dual Wield Sneak Thrusts-64577-1-0-1646513184.7z",
+      "Size": 101295,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Vanargand Animations - Dual Wield Sneak Thrusts",
+        "Author": "Verolevi",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64577/64577-1646513077-115487255.png",
+        "IsNSFW": false,
+        "Description": "Replaces sneak attacks and movement animations while Dual Wielding (Left hand, right hand and dual hand normal and power attacks) and holding a Sword/Dagger, using DAR and AMR.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 64577,
+        "FileID": 268294,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|64577|268294"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "kWnI0aJT/hs=",
+      "Meta": null,
+      "Name": "Vanargand Animations - Sneak Archery-56788-1-4-1634237551.7z",
+      "Size": 121777,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Vanargand Animations - Sneak Archery",
+        "Author": "Verolevi",
+        "Version": "1.4.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56788/109396-1633727775-1077138231.gif",
+        "IsNSFW": false,
+        "Description": "A new animation pack, using DAR, aimed at bringing a more modern experience into the Sneak Archery archetype and eliminating long standing issues with the vanilla animations (bow changing direction while aiming, jittery movement and bow handling).",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 56788,
+        "FileID": 234830,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|56788|234830"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "hhV7SHujS2M=",
+      "Meta": null,
+      "Name": "Vanargand Animations - Sneak Crossbows-67282-1-0b-1656114642.7z",
+      "Size": 246392,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Vanargand Animations - Sneak Crossbows",
+        "Author": "Verolevi",
+        "Version": "1.0.0.0b",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67282/111703-1651263803-220841014.jpeg",
+        "IsNSFW": false,
+        "Description": "The sneak counterpart of Vanargand Crossbows, replaces sneak crossbow animations and fixes jittery crossbow aim direction while moving and/or turning.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 67282,
+        "FileID": 293842,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|67282|293842"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "QBfoX/9i2hM=",
+      "Meta": null,
+      "Name": "Vanargand Animations - Sneak Idle Walk and Run-54351-1-1-1630433273.7z",
+      "Size": 51268,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Vanargand Animations - Sneak idle walk and run",
+        "Author": "Verolevi",
+        "Version": "1.1.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54351/54351-1639839033-1379310679.gif",
+        "IsNSFW": false,
+        "Description": "Animations for the sneak idle, sneak walk and sneak run, while no weapon is drawn, using DAR.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 54351,
+        "FileID": 225228,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|54351|225228"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "w+pFdGQ3SmY=",
+      "Meta": null,
+      "Name": "Vanargand Animations - Sneak Strike Attacks-55420-1-1-1631370169.7z",
+      "Size": 65166,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Vanargand Animations - Sneak Strike Attacks",
+        "Author": "Verolevi",
+        "Version": "1.1.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55420/55420-1631367023-1795641564.gif",
+        "IsNSFW": false,
+        "Description": "The third part of the Vanargand Sneak animations, revamping animations for axes and hammers while sneaking. Standard version and SkySA adapted version.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 55420,
+        "FileID": 227635,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|55420|227635"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "FH0FHum2V3I=",
+      "Meta": null,
+      "Name": "Vanargand Animations - Sneak Thrust Attacks 1.1b-55031-1-1b-1630961280.7z",
+      "Size": 68057,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Vanargand Animations - Sneak Thrust Attacks",
+        "Author": "Verolevi",
+        "Version": "1.1.0.0b",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55031/55031-1630689585-1066983974.gif",
+        "IsNSFW": false,
+        "Description": "The second part of the Vanargand Sneak animations, revamping animations for swords and daggers while sneaking. Standard version and SkySA version.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 55031,
+        "FileID": 226584,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|55031|226584"
+      }
     }
   ],
   "InlinedFiles": [
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9bd59a61-3b8f-4dde-98a8-042f69d7c9e6",
+      "SourceDataID": "89137199-9ed7-4fd2-b9c0-b1088989a597",
       "Hash": "hGwfMvkWrkI=",
       "Size": 49,
       "To": "dump_running_process.bat"
     },
     {
       "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "68478a87-2e09-4c22-8017-02a13c828c2c",
-      "Hash": "dzu/bQ0Y134=",
-      "Size": 14929,
+      "SourceDataID": "4e67dd3b-21f3-40b2-8cc2-8420b27c3352",
+      "Hash": "vQKB0AzIrjk=",
+      "Size": 16223,
       "To": "ModOrganizer.ini"
     },
     {
       "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "3b8ba682-050b-4bee-b759-1fc314ae8690",
+      "SourceDataID": "2d0d42f0-66cb-4f5b-94f7-3be21ee87dfd",
       "Hash": "/74p1ysugnk=",
       "Size": 140,
       "To": "nxmhandler.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8c053c09-9f16-4d0a-8a82-cbd3601e1dc1",
+      "SourceDataID": "46b6e67f-0b6c-415c-9b16-f189428ba34c",
       "Hash": "9FcQySWzISU=",
       "Size": 12281,
       "To": "mods\\Address Library\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "972b8d94-7ceb-4b5b-93c4-9f415044c37d",
+      "SourceDataID": "bea37560-bbf8-411c-b08b-0a651307396b",
+      "Hash": "owZEsDa9KFA=",
+      "Size": 9674,
+      "To": "mods\\Animation Motion Revolution\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "e448399d-6abd-4121-bf27-00e6b0218d4b",
+      "Hash": "xjFLQ+iaJw8=",
+      "Size": 41712,
+      "To": "mods\\Apocalypse\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "560f2fb3-1aeb-452d-b848-eab6449ffb9c",
+      "Hash": "LRHHDSmWjZk=",
+      "Size": 47819,
+      "To": "mods\\Arcanum\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "b47a565f-d921-402e-a139-05732df58e06",
+      "Hash": "nG/ZbQKb/yw=",
+      "Size": 1605,
+      "To": "mods\\Better Jumping SE\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "8e5d5d55-97c8-415b-94df-af3ef6b9eb80",
+      "Hash": "yr9G0gG8b/Y=",
+      "Size": 7178,
+      "To": "mods\\Buff Others\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "f5d59d35-b9ee-4834-8cbf-916e6849454a",
       "Hash": "aMsV/U3ZwoA=",
       "Size": 1820,
       "To": "mods\\Console Disabler\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c8023296-4e05-4fc8-862e-d538c1b9fd17",
+      "SourceDataID": "0f294c82-a011-4656-83a9-db5fb0b1bbe5",
       "Hash": "oOMe/kv1l3k=",
       "Size": 1725,
       "To": "mods\\Disable Fast Travel\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "93b4fad4-6b27-4ee0-b118-e15fc62975c3",
+      "SourceDataID": "768a97fc-b51c-4dbd-84a3-4d10c84e5b0f",
+      "Hash": "11G9ikI/49o=",
+      "Size": 17431,
+      "To": "mods\\Dynamic Animation Replacer\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "2b885125-f1e7-409b-b3ab-bc94af329492",
+      "Hash": "oceU849PQQc=",
+      "Size": 5161,
+      "To": "mods\\Goetia Animations - Enchanted Staves\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "d7b816ed-b785-4c28-a0fc-61b504456db0",
+      "Hash": "tUGrQcCTuDw=",
+      "Size": 5047,
+      "To": "mods\\Goetia Animations - Female Idle Walk And Run\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "f1934b4b-1301-4d7e-9636-f2a54ef37c94",
+      "Hash": "LHzChizpWqc=",
+      "Size": 6754,
+      "To": "mods\\Goetia Animations - Magic Spell Casting\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "05b15b7a-b9e3-4818-aae0-67305ae8f3da",
+      "Hash": "1Vcpo9mgndQ=",
+      "Size": 4570,
+      "To": "mods\\Goetia Animations - Male Idle Walk And Run\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "66028cf6-b42f-40c7-860f-aef318fcd1b5",
+      "Hash": "8KNMgtNw0sU=",
+      "Size": 4569,
+      "To": "mods\\Goetia Animations - Sprint\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "8c415bd8-ca03-47aa-ac02-7f4d3664011f",
+      "Hash": "hBYvsBZDD6M=",
+      "Size": 24410,
+      "To": "mods\\Growl\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "1a4ecfd8-cea5-4e9a-a3f7-c6b5670f9f24",
+      "Hash": "ZnHVv4/KYbQ=",
+      "Size": 2820,
+      "To": "mods\\Leviathan Animations - Two-Handed High Stance\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "0556588f-e692-4476-ad64-7eb2b6b78aae",
+      "Hash": "ldGPuyRDZUk=",
+      "Size": 3293,
+      "To": "mods\\Leviathan Animations - Two-Handed Normal Attacks\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "b250e921-f995-44f7-96e9-cb63d6a8cc12",
+      "Hash": "l5PavrCZ8b0=",
+      "Size": 4010,
+      "To": "mods\\Leviathan Animations - Two-Handed Power Attacks\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "e21fcb01-c8fe-406f-8145-1568a4e9d360",
       "Hash": "kmLu49H60/8=",
       "Size": 2888,
       "To": "mods\\MCM\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "db05104a-b1d8-434d-bde4-c87814b4f938",
+      "SourceDataID": "9bbe270d-28d6-4850-b391-4946042a15ac",
+      "Hash": "bTrK/gZa8GM=",
+      "Size": 3986,
+      "To": "mods\\Mealtime\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "84d0a83f-d46e-43ef-b2b7-d7e6ecf4eb6a",
+      "Hash": "IMy+BVrR5c0=",
+      "Size": 5309,
+      "To": "mods\\No Wait\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "f8c1a7e2-0e80-4bf4-93ac-d01ade674147",
       "Hash": "K4sDFVr8bw0=",
       "Size": 4673,
       "To": "mods\\NordWarUA's Vanilla Armor\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1a90ae85-cece-4cf6-8603-643030eb1da9",
+      "SourceDataID": "d9336401-7fd9-4b59-808a-a9059c237643",
+      "Hash": "LwKA/UGQfEQ=",
+      "Size": 3326,
+      "To": "mods\\Open Wayshrines Add-on for SWIFT - Skyrim Wayshrines Immersive Fast Travel\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "addc5cc3-81aa-4f29-83f6-964603b67591",
+      "Hash": "1Ls9Ah89E7g=",
+      "Size": 112453,
+      "To": "mods\\Ordinator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "2b6f283f-fd4b-40e6-a601-a8bdcf9fddd9",
       "Hash": "7CWHZ6NsEiI=",
       "Size": 3315,
       "To": "mods\\QUI\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b7b9dc78-c8ab-417a-8a0f-16058193d5f0",
+      "SourceDataID": "66355f02-d9d1-49d3-8946-a8a2016b0f2f",
       "Hash": "CGE3kjIkEEo=",
       "Size": 10934,
       "To": "mods\\Redux\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "89587873-9a26-4a0e-8977-196611511442",
-      "Hash": "pau1TUacMNk=",
+      "SourceDataID": "c8e868a9-1a2e-4d09-820e-17abe4aabeb4",
+      "Hash": "2yOEYv9wb/k=",
+      "Size": 4696,
+      "To": "mods\\Remove QuickSave\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "69906d10-4fa8-4060-97ba-7ec0795ba102",
+      "Hash": "wyTedTy8TMw=",
+      "Size": 42215,
+      "To": "mods\\Sacrosanct\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "5ee8f015-de02-42e3-bb56-e62815a5bcba",
+      "Hash": "/0vCNuEWe/0=",
+      "Size": 3772,
+      "To": "mods\\Skyrim Together Plus\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "f135895a-973a-4218-9565-77143b165225",
+      "Hash": "u/HGeCml76A=",
       "Size": 2270,
       "To": "mods\\Skyrim Together Reborn\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ce19c755-9f65-47d6-84d0-fb8851c85ec6",
+      "SourceDataID": "1e0c920b-db97-4738-892a-3a0b4bbef76b",
+      "Hash": "HCrQ8bHBkY4=",
+      "Size": 16535,
+      "To": "mods\\Skyrim Wayshrines - Immersive Fast Travel - SWIFT SE\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "eb62c973-0673-4824-be06-399b18ff2a75",
+      "Hash": "4CI5mlX+Qzs=",
+      "Size": 21692,
+      "To": "mods\\Skyshards\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "9f52c556-66ab-4179-8a7d-2baf706655c4",
       "Hash": "yCD0CqkqU9I=",
       "Size": 822,
       "To": "mods\\SkyUI\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "382eebdf-349a-4975-aeb9-563707fbf432",
+      "SourceDataID": "e1666172-2b10-4429-a96f-1ee9d24e3ec2",
+      "Hash": "UUk86d+dudg=",
+      "Size": 1952,
+      "To": "mods\\Smooth Random Jump Animation\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "1c8c2ab1-9aa4-427e-ad01-2ce35dc53319",
       "Hash": "13dWSd8cX28=",
       "Size": 8453,
       "To": "mods\\TK Dodge\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c8298e60-8a68-40b1-b927-54bab7a4e110",
+      "SourceDataID": "abf2fa35-d30c-490f-9d0b-99976fe71d89",
       "Hash": "NeFoCSCuglM=",
       "Size": 24704,
       "To": "mods\\True Directional Movement\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1c3d27e5-c86d-426b-8227-79319dffab26",
+      "SourceDataID": "5b3db375-2c46-4e77-80ad-877937ae45e8",
       "Hash": "3VGjHl1FV1I=",
       "Size": 19988,
       "To": "mods\\TrueHUD\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9eba179f-4b7d-4b1b-8a72-b9688986b52e",
+      "SourceDataID": "0b7597c4-7c58-4270-a93f-da5c27afae85",
       "Hash": "zSG5XC15IyM=",
       "Size": 3832,
       "To": "mods\\UI Extensions\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a58d49b3-e1f2-4228-9f4c-3af3c27d707d",
+      "SourceDataID": "380e3f82-a428-4ef3-85e5-b3fb85efe229",
       "Hash": "28wPzyz6aPs=",
       "Size": 554,
       "To": "mods\\Unofficial Skyrim Special Edition Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "21009a26-523d-4ce7-8236-42c70c39d17c",
+      "SourceDataID": "6d8dab59-339e-45a6-bd94-d5f98bb82a70",
+      "Hash": "MXGAgCkuEQ8=",
+      "Size": 6291,
+      "To": "mods\\Vanargand Animations - Archery\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "c26820fa-cbb5-4428-8018-5f1074c5b75d",
+      "Hash": "OSYjzqnAnHA=",
+      "Size": 5005,
+      "To": "mods\\Vanargand Animations - Crossbows\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "16605571-992f-4f20-bbb3-4b0012cdcea9",
+      "Hash": "Hoo9Eyi0l4g=",
+      "Size": 5841,
+      "To": "mods\\Vanargand Animations - Dual Wield Normal and Power Attacks\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "0cc989f7-a209-490c-a16d-a2b403c1114e",
+      "Hash": "y88zr/0V/hM=",
+      "Size": 5269,
+      "To": "mods\\Vanargand Animations - Dual Wield Sneak Strikes\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "feb812da-e04b-449e-9c90-07eb976e365c",
+      "Hash": "33VEVhVvZFA=",
+      "Size": 5254,
+      "To": "mods\\Vanargand Animations - Dual Wield Sneak Thrusts\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "cd98d9ac-6704-4f99-b07f-4833a16c0bd2",
+      "Hash": "5UcFhHkUtGE=",
+      "Size": 6475,
+      "To": "mods\\Vanargand Animations - One Handed Mid Stance\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "09693560-2c6f-4154-9c21-32f39a774168",
+      "Hash": "Q7cJYDXLXSo=",
+      "Size": 6025,
+      "To": "mods\\Vanargand Animations - One Handed Normal Attacks\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "6805a91b-c918-430f-9fd7-bb73be885eea",
+      "Hash": "HQuBRIIgbp0=",
+      "Size": 6263,
+      "To": "mods\\Vanargand Animations - One Handed Power Attacks\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "678c40a5-0830-4a18-8510-ad1714037403",
+      "Hash": "8YDRhgXdbb4=",
+      "Size": 7454,
+      "To": "mods\\Vanargand Animations - Sneak Archery\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "41348762-cb7e-4b8f-a218-96c28ec90ce6",
+      "Hash": "fv0aWHBaVSU=",
+      "Size": 5424,
+      "To": "mods\\Vanargand Animations - Sneak Crossbows\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "26d85ae6-2fe1-45cb-a39c-2c13ac4852c3",
+      "Hash": "1B1ZHvDOgtg=",
+      "Size": 3722,
+      "To": "mods\\Vanargand Animations - Sneak idle walk and run\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "51fe1ab1-92c2-483f-b771-d8da860dcca7",
+      "Hash": "lMIUPGF0bUY=",
+      "Size": 4927,
+      "To": "mods\\Vanargand Animations - Sneak Strike Attacks\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "38126913-fee5-4e51-a91a-2130c9e9ba59",
+      "Hash": "IM6NOJfoTCU=",
+      "Size": 4849,
+      "To": "mods\\Vanargand Animations - Sneak Thrust Attacks\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "d7abb5fc-697d-482c-8f44-e769a3a2e110",
+      "Hash": "sK+mNxMZx48=",
+      "Size": 2459,
+      "To": "mods\\VR Address Library\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "78c55555-32c2-4a83-9097-32ed796ada44",
       "Hash": "pYQJC4Ptk7I=",
       "Size": 11929,
       "To": "mods\\WACC\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8c97f253-9bc8-4ca5-8aeb-8ed5a2edd7f8",
+      "SourceDataID": "33af102c-ac8f-465f-be65-a948a967ea3e",
       "Hash": "27N/oa1HXVg=",
       "Size": 13526,
       "To": "mods\\Wildcat\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3986f32b-c1b9-4185-8714-3338b3dc0199",
+      "SourceDataID": "f80ad803-fe7b-4819-bd15-b002dd48c045",
+      "Hash": "AI3zy7sl82k=",
+      "Size": 13271,
+      "To": "mods\\XP32\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "a53faeac-cf7d-4b3f-8f36-784771655747",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\┗ 🍀Combat Overhaul🍀┑_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "fe87968e-1d70-4a71-9a04-7543a4d7d044",
+      "SourceDataID": "78597c4f-99a0-4292-b5fe-876cd6697df4",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\┗🍀 Patches 🍀┑_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9c198ec9-b2f4-430e-a5f8-9c9c9c7a9766",
+      "SourceDataID": "2c06ad9d-2fb2-4b12-9b7e-2d3366449f29",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\┗🍀 Utility 🍀┑_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1d2a5d1a-7601-43a9-9415-ee96059412ae",
+      "SourceDataID": "3820b151-55de-4c6e-8559-7199122574bb",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\┗🍀Animation🍀┑_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3ddc45b4-c476-4d1a-81e6-5d44686a013a",
+      "SourceDataID": "633ce80c-4245-48bc-ac8e-252cfed41427",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\┗🍀Armor🍀┑_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1a52015a-9f7b-4eee-b0c1-bf1d181fceac",
+      "SourceDataID": "b2f1264f-864d-487e-a2b9-90612da7e23b",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\┗🍀Creatures🍀┑_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5bed7e68-dd7c-48e8-b7ae-6747ea6a77a4",
+      "SourceDataID": "39e331bb-425f-4c30-91d6-2363ee7d8528",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\┗🍀General Overhaul🍀┑_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6da7098d-bdad-42d7-8384-495ca1e4bab5",
+      "SourceDataID": "e2d8654f-cbf9-4e35-a7cc-0032464bfb4e",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\┗🍀Graphics🍀┑_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d8d3a23d-a0cb-4797-954e-2c1c18e3635e",
+      "SourceDataID": "558be042-df58-4fdb-8431-73304d9256fb",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\┗🍀Quests🍀┑_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "de736643-2eb0-4e77-873a-22622dd5fce0",
+      "SourceDataID": "be16f998-4d2f-4ada-9700-7cb545005274",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\┗🍀UI🍀┑_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e018c188-150c-422c-a6b4-aa93b1edcd08",
+      "SourceDataID": "52d5c22f-f51e-4443-8b5e-aa64e8c63268",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\┗🍀Weapons🍀┑_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e30895a4-050b-4e50-aaf0-f29a6ca2d6df",
-      "Hash": "ABCu0Rm9HGo=",
-      "Size": 718,
+      "SourceDataID": "04c68dc3-0041-4a17-9135-68f24e91b581",
+      "Hash": "5scaff9100Q=",
+      "Size": 1079,
       "To": "profiles\\Skyrim Online\\archives.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "531b59ad-4926-47c4-8e3b-e89f5df036b7",
+      "SourceDataID": "db2ed2e8-79b8-45ef-a236-afd8d7462e99",
       "Hash": "zH3GSffbvsA=",
       "Size": 36,
       "To": "profiles\\Skyrim Online\\initweaks.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0bfb53ba-932b-43fb-89f3-b13c2c357cb6",
-      "Hash": "ftzCtWuL7J0=",
-      "Size": 416,
+      "SourceDataID": "3cc2ab77-1186-444c-8d82-01a943e26542",
+      "Hash": "5SLOW7u/ITY=",
+      "Size": 813,
       "To": "profiles\\Skyrim Online\\loadorder.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f7a56bc0-8435-4dc8-b733-3bc60cd09565",
+      "SourceDataID": "cfed77e6-b642-4c93-a70c-01c7ab99b9ac",
       "Hash": "CcflEOKPT3E=",
       "Size": 59,
       "To": "profiles\\Skyrim Online\\lockedorder.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "21dede18-6669-4c37-89d2-15083b7fdbad",
-      "Hash": "5LOWa3rgLUo=",
-      "Size": 770,
+      "SourceDataID": "e97b5fc6-ff98-402a-bd4e-4d3547abc7d0",
+      "Hash": "LIuBfQxb/bg=",
+      "Size": 2134,
       "To": "profiles\\Skyrim Online\\modlist.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "eb583188-e8f0-4d99-a119-5a826c5a3e3c",
-      "Hash": "nMt3A5ttE8I=",
-      "Size": 356,
+      "SourceDataID": "3bf1f2a0-0c18-44ff-8cd3-1b68685c13c5",
+      "Hash": "GvnJQ8061c4=",
+      "Size": 768,
       "To": "profiles\\Skyrim Online\\plugins.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f0cfbbe6-e47c-4caf-943f-0c083585ae9a",
+      "SourceDataID": "be88cbdf-05a0-476c-8ad8-4d628516e6b2",
       "Hash": "PJSlt3GWPzA=",
       "Size": 85,
       "To": "profiles\\Skyrim Online\\settings.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "bb5f9071-dc3a-48a9-8fc1-6913eb5200ed",
+      "SourceDataID": "74e14768-1c4a-4a64-977f-9132099160c1",
       "Hash": "/iKzFLd3VYc=",
       "Size": 1895,
       "To": "profiles\\Skyrim Online\\skyrim.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "897b5217-114e-4627-bf77-508754a40216",
+      "SourceDataID": "a8be29b7-e3c9-4d50-ad41-abdfb3fdfecb",
       "Hash": "menYUTfbRu8=",
       "Size": 0,
       "To": "profiles\\Skyrim Online\\skyrimcustom.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e493357f-a0f6-4faa-87a8-34c11315b93d",
-      "Hash": "alP7hhiUF78=",
+      "SourceDataID": "9eac06d7-9b67-4e4b-8601-7756a5521945",
+      "Hash": "SnGlTWvVzdE=",
       "Size": 3945,
       "To": "profiles\\Skyrim Online\\skyrimprefs.ini"
     }
