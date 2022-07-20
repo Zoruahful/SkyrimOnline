@@ -1,0 +1,604 @@
+{
+  "$type": "Manifest, Wabbajack.Lib",
+  "Name": "Skyrim Online",
+  "Version": "0.0.0",
+  "Author": "Team Disarray",
+  "Description": "Alpha Test 1.0  ",
+  "GameType": "SkyrimSpecialEdition",
+  "GameName": "SkyrimSpecialEdition",
+  "ModManager": 0,
+  "ModManagerName": "MO2",
+  "DownloadSize": 838478394,
+  "InstallSize": 2173141797,
+  "IsNSFW": false,
+  "Archives": [
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "tXGyPxq5R4Q=",
+      "Meta": null,
+      "Name": "MCM Helper SE-53000-1-3-2-1637570704.zip",
+      "Size": 1220462,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "MCM Helper",
+        "Author": "Parapets",
+        "Version": "1.3.2.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53000/53000-1627746793-1514379922.png",
+        "IsNSFW": false,
+        "Description": "Simplifies the creation of Mod Configuration Menus and extends them with powerful new features, such as persistent INI settings and hotkey registration. Mod authors will be able to write simpler, cleaner Papyrus scripts for their configs. Players will be able to spend less time in menus.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 53000,
+        "FileID": 243418,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|53000|243418"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "pp17mSXTeQ8=",
+      "Meta": null,
+      "Name": "Vanilla Armors - Replacer Edition-31679-1-02-1593188146.rar",
+      "Size": 516401110,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "NordWarUA's Vanilla Armor Replacers SSE",
+        "Author": "NordWarUA",
+        "Version": "f1.02",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31679/31679-1578650675-1453463862.jpeg",
+        "IsNSFW": false,
+        "Description": "This mod retextures some of the armor sets and weapon sets from the base game to a more High Medieval aesthetic. It also adds a new armor set that looks similar to the one from the Skyrim trailer.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 31679,
+        "FileID": 147524,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|31679|147524"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "guVgHJI34SM=",
+      "Meta": null,
+      "Name": "Redux SE-66920-1-2-1651218027.zip",
+      "Size": 44115260,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Redux SE",
+        "Author": "Craftian",
+        "Version": "1.2.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/66920/66920-1650622289-768305955.png",
+        "IsNSFW": false,
+        "Description": "A unique, fully-voiced overhaul of the main quest, adding a campaign designed to play to Skyrim's strengths as an open world sandbox.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 66920,
+        "FileID": 280280,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|66920|280280"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "dF2yafV2Oks=",
+      "Meta": null,
+      "Name": "SkyUI_5_2_SE-12604-5-2SE.7z",
+      "Size": 2783417,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "SkyUI",
+        "Author": "SkyUI Team",
+        "Version": "5.2.0.0SE",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/12604-0-1506820354.png",
+        "IsNSFW": false,
+        "Description": "Elegant, PC-friendly interface mod with many advanced features.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 12604,
+        "FileID": 35407,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|12604|35407"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "VlVFE2DK9xI=",
+      "Meta": null,
+      "Name": "TK Dodge SE-15309-3-18-1574502132.7z",
+      "Size": 433659,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "TK Dodge SE",
+        "Author": "tktk",
+        "Version": "3.18.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/15309/20923-1518780532-319834776.jpeg",
+        "IsNSFW": false,
+        "Description": "This mod adds dodge animation of using key press when player drawn weapons,spell,staff and unarmed.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 15309,
+        "FileID": 114159,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|15309|114159"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "drsHJ4pZi98=",
+      "Meta": null,
+      "Name": "True Directional Movement (AE)-51614-2-2-1-1648078915.7z",
+      "Size": 1211162,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "True Directional Movement - Modernized Third Person Gameplay",
+        "Author": "Ersh",
+        "Version": "2.2.1.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51614/51614-1627839075-1842122342.gif",
+        "IsNSFW": false,
+        "Description": "Overhauls the third person gameplay similarly to modern action RPGs, entirely through SKSE. Move and attack in any direction. Includes a custom target lock component and animated healthbar widget, target headtracking, projectile aim support during target lock, boss bars, mount support and more! Modular and customizable through MCM.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 51614,
+        "FileID": 272083,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|51614|272083"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "f7NsTLRXpQw=",
+      "Meta": null,
+      "Name": "TrueHUD (AE)-62775-1-1-4-1648214882.7z",
+      "Size": 289212,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "TrueHUD - HUD Additions",
+        "Author": "Ersh",
+        "Version": "1.1.4.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62775/62775-1643737629-1125862080.png",
+        "IsNSFW": false,
+        "Description": "HUD additions formerly included in True Directional Movement, completely reworked and improved! Very customizable actor info bars, boss bars, player widget and an API for other plugins to use. Modular and customizable through MCM.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 62775,
+        "FileID": 272399,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|62775|272399"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "WehYle6/1vw=",
+      "Meta": null,
+      "Name": "UIExtensions v1-2-0-17561-1-2-0.7z",
+      "Size": 459887,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "UIExtensions",
+        "Author": "Expired",
+        "Version": "1.2.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17561/57046-1527360500-1073676609.jpeg",
+        "IsNSFW": false,
+        "Description": "Adds various custom menus to Skyrim for modder use.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 17561,
+        "FileID": 55628,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|17561|55628"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "XZPQ2se5O3o=",
+      "Meta": null,
+      "Name": "Unofficial Skyrim Special Edition Patch-266-4-2-6a-1636838663.7z",
+      "Size": 134034173,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Unofficial Skyrim Special Edition Patch",
+        "Author": "Unofficial Patch Project Team",
+        "Version": "4.2.6.0a",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/266-0-1477512662.png",
+        "IsNSFW": false,
+        "Description": "A comprehensive bugfixing mod for The Elder Scrolls V: Skyrim - Special Edition. The goal of the Unofficial Skyrim Special Edition Patch (aka USSEP) is to eventually fix every bug with Skyrim Special Edition not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 266,
+        "FileID": 241103,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|266|241103"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "vR40TCndOE0=",
+      "Meta": null,
+      "Name": "Weapons Armor Clothing and Clutter Fixes-18994-2-8-1638839265.7z",
+      "Size": 24010555,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Weapons Armor Clothing and Clutter Fixes",
+        "Author": "kryptopyr",
+        "Version": "2.8.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18994/18994-1533245114-1467886195.jpeg",
+        "IsNSFW": false,
+        "Description": "Fixes bugs and inconsistencies for Skyrim's weapons, armors, clothing, jewelry, and clutter items.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 18994,
+        "FileID": 247132,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|18994|247132"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "jltq1+g6pnk=",
+      "Meta": null,
+      "Name": "Wildcat v700-1368-7-00SSE.zip",
+      "Size": 265058,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Wildcat - Combat of Skyrim",
+        "Author": "Enai Siaion",
+        "Version": "f7.00SSE",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/76529-1-1466614069.jpg",
+        "IsNSFW": false,
+        "Description": "Wildcat is a streamlined, yet full featured combat overhaul. It makes combat more dangerous and visceral by increasing lethality, adding injuries and context sensitive stagger and making combat AI more responsive and aggressive. It accomplishes this with minimal scripting and no save bloat.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 1368,
+        "FileID": 34066,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|1368|34066"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "Fr7yE/Rqxvs=",
+      "Meta": null,
+      "Name": "QUI-AE-65343-0-3-0-1656459665.zip",
+      "Size": 551101,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "QUI (Alpha)",
+        "Author": "Qudix",
+        "Version": "0.3.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65343/65343-1647925921-917128304.png",
+        "IsNSFW": false,
+        "Description": "Various UI tools, tweaks, and fixes. More than functional, but not fully \"complete\". Includes an AddItemMenu alternative.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 65343,
+        "FileID": 294862,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|65343|294862"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "OF0u0BBtESk=",
+      "Meta": null,
+      "Name": "Skyrim Together Reborn-69993-1-2-0-1657897529.zip",
+      "Size": 111455526,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Skyrim Together Reborn",
+        "Author": "The Together Team",
+        "Version": "1.2.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69993/69993-1655751078-895583860.png",
+        "IsNSFW": false,
+        "Description": "Play Skyrim in co-op with your friends or strangers, complete quests, fight, explore the world.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 69993,
+        "FileID": 299167,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|69993|299167"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "v3cooByMZWo=",
+      "Meta": null,
+      "Name": "All in one (Anniversary Edition)-32444-5-1641492622.zip",
+      "Size": 962184,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Address Library for SKSE Plugins",
+        "Author": "meh321",
+        "Version": "5.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32444/32444-1581072939-1625378722.png",
+        "IsNSFW": false,
+        "Description": "Contains header file and a database to make SKSE DLL plugins version independent easily.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 32444,
+        "FileID": 254423,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|32444|254423"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "1Daw/38vTQM=",
+      "Meta": null,
+      "Name": "Disable Fast Travel-54217-1-0-1-1637609066.zip",
+      "Size": 283413,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Disable Fast Travel SKSE - No Janky Map UI",
+        "Author": "Parapets",
+        "Version": "1.0.1.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54217/54217-1629503185-158582292.png",
+        "IsNSFW": false,
+        "Description": "Disables fast travel in the map menu, and fixes the bug where you would no longer be able to place custom markers near discovered locations.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 54217,
+        "FileID": 243536,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|54217|243536"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "HQuDs/PgZc4=",
+      "Meta": null,
+      "Name": "PC Control map.-65433-1-1648132432.7z",
+      "Size": 2215,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Proper Console Disabler",
+        "Author": "Fairace",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65433/65433-1648132457-271260130.jpeg",
+        "IsNSFW": false,
+        "Description": "Proper Console Disabler - For people who has the itch to press ~. Simple mod, NO SCRIPTS, Save game compatible, Enable/Disable anytime via your mod loader.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 65433,
+        "FileID": 272174,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|65433|272174"
+      }
+    }
+  ],
+  "InlinedFiles": [
+    {
+      "$type": "RemappedInlineFile, Wabbajack.Lib",
+      "SourceDataID": "eaf11989-ed84-4fc4-b5f5-5b02bb767544",
+      "Hash": "ix0+lfyL0Hg=",
+      "Size": 16146,
+      "To": "ModOrganizer.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "93355bf7-c0a7-46b3-8f4c-d2258e1083fd",
+      "Hash": "9FcQySWzISU=",
+      "Size": 12281,
+      "To": "mods\\Address Library\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "fddf993a-d839-44a7-b023-ed1037154c38",
+      "Hash": "aMsV/U3ZwoA=",
+      "Size": 1820,
+      "To": "mods\\Console Disabler\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "22ad4dc8-9f8b-4593-a546-15624e21cb79",
+      "Hash": "oOMe/kv1l3k=",
+      "Size": 1725,
+      "To": "mods\\Disable Fast Travel\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "40416d9f-74be-4327-a888-3eeea139d060",
+      "Hash": "kmLu49H60/8=",
+      "Size": 2888,
+      "To": "mods\\MCM\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "8cad74f8-b7cf-4a9d-8cec-4b2157ce2f86",
+      "Hash": "K4sDFVr8bw0=",
+      "Size": 4673,
+      "To": "mods\\NordWarUA's Vanilla Armor\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "692fa5a6-6766-4a80-881a-feda2ccaf43e",
+      "Hash": "7CWHZ6NsEiI=",
+      "Size": 3315,
+      "To": "mods\\QUI\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "70676d63-2730-4309-bd0a-7eca8e50f4fa",
+      "Hash": "CGE3kjIkEEo=",
+      "Size": 10934,
+      "To": "mods\\Redux\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "f217ed2c-650e-4bf4-afa1-f8435fe1e507",
+      "Hash": "pau1TUacMNk=",
+      "Size": 2270,
+      "To": "mods\\Skyrim Together Reborn\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "c8a08848-bf4d-4c7a-9543-d94c90e24966",
+      "Hash": "yCD0CqkqU9I=",
+      "Size": 822,
+      "To": "mods\\SkyUI\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "a61c5233-9288-44a9-a6cb-9a0b7c16a88c",
+      "Hash": "13dWSd8cX28=",
+      "Size": 8453,
+      "To": "mods\\TK Dodge\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "a2412410-2777-4da0-b0cb-2d11272570c6",
+      "Hash": "NeFoCSCuglM=",
+      "Size": 24704,
+      "To": "mods\\True Directional Movement\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "0d3ba1ff-7d4b-41ab-96c4-3b929798fc5d",
+      "Hash": "3VGjHl1FV1I=",
+      "Size": 19988,
+      "To": "mods\\TrueHUD\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "dcd615b4-7f11-4e38-aa89-19eee4be5cd8",
+      "Hash": "zSG5XC15IyM=",
+      "Size": 3832,
+      "To": "mods\\UI Extensions\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "4901a35a-057f-4c27-b1ae-e87948a77273",
+      "Hash": "28wPzyz6aPs=",
+      "Size": 554,
+      "To": "mods\\Unofficial Skyrim Special Edition Patch\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "40bc5568-fcb4-4b4a-a5f4-e6409ceb07b8",
+      "Hash": "pYQJC4Ptk7I=",
+      "Size": 11929,
+      "To": "mods\\WACC\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "74a15538-a7f5-41cb-ae60-f7aba42c54b2",
+      "Hash": "27N/oa1HXVg=",
+      "Size": 13526,
+      "To": "mods\\Wildcat\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "30b0ac33-d84f-4a7e-a6a6-3bc26e0fac0f",
+      "Hash": "7NfdJqPKj38=",
+      "Size": 105,
+      "To": "mods\\┗ 🍀Combat Overhaul🍀┑_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "95091fa9-e9d6-4b6b-865f-913f0412bfd2",
+      "Hash": "7NfdJqPKj38=",
+      "Size": 105,
+      "To": "mods\\┗🍀 Patches 🍀┑_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "5f99c910-bce8-4464-9d9f-dd4ea3bbc4c3",
+      "Hash": "7NfdJqPKj38=",
+      "Size": 105,
+      "To": "mods\\┗🍀 Utility 🍀┑_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "10f7439e-e9bc-487e-adad-d117e6a5d638",
+      "Hash": "7NfdJqPKj38=",
+      "Size": 105,
+      "To": "mods\\┗🍀Animation🍀┑_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "343b2ea4-506e-4e17-88f4-f57aed27df7a",
+      "Hash": "7NfdJqPKj38=",
+      "Size": 105,
+      "To": "mods\\┗🍀Armor🍀┑_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "cc8c5c2b-a034-49a9-85ef-d976518d64f0",
+      "Hash": "7NfdJqPKj38=",
+      "Size": 105,
+      "To": "mods\\┗🍀Creatures🍀┑_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "27787a79-5127-4064-9953-4dc7d8891885",
+      "Hash": "7NfdJqPKj38=",
+      "Size": 105,
+      "To": "mods\\┗🍀General Overhaul🍀┑_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "d58451de-3756-4578-bc8a-cfc69f7cc207",
+      "Hash": "7NfdJqPKj38=",
+      "Size": 105,
+      "To": "mods\\┗🍀Graphics🍀┑_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "3a3b45fc-09b6-4336-966e-7c500db780b3",
+      "Hash": "7NfdJqPKj38=",
+      "Size": 105,
+      "To": "mods\\┗🍀Quests🍀┑_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "bf783a64-1d29-4733-8768-612d3a37796b",
+      "Hash": "7NfdJqPKj38=",
+      "Size": 105,
+      "To": "mods\\┗🍀UI🍀┑_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "117870e7-f3b8-4f01-82f8-4164f1f6e58f",
+      "Hash": "7NfdJqPKj38=",
+      "Size": 105,
+      "To": "mods\\┗🍀Weapons🍀┑_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "0b46bf7d-2d5b-41cf-b0c6-5bfba40bbcef",
+      "Hash": "ABCu0Rm9HGo=",
+      "Size": 718,
+      "To": "profiles\\Skyrim Online\\archives.txt"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "be3454d8-ba3c-44ad-ae16-8614bdf3c4a8",
+      "Hash": "zH3GSffbvsA=",
+      "Size": 36,
+      "To": "profiles\\Skyrim Online\\initweaks.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "95a4679d-56a0-4209-970e-f9f2ae411d30",
+      "Hash": "ftzCtWuL7J0=",
+      "Size": 416,
+      "To": "profiles\\Skyrim Online\\loadorder.txt"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "0942e3d3-5b53-474d-bd87-c61609cebc11",
+      "Hash": "CcflEOKPT3E=",
+      "Size": 59,
+      "To": "profiles\\Skyrim Online\\lockedorder.txt"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "21539b81-dff2-479d-ab99-fbe45fbd8324",
+      "Hash": "5LOWa3rgLUo=",
+      "Size": 770,
+      "To": "profiles\\Skyrim Online\\modlist.txt"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "04cfa4ea-0a34-40b3-9e72-24be052a7272",
+      "Hash": "nMt3A5ttE8I=",
+      "Size": 356,
+      "To": "profiles\\Skyrim Online\\plugins.txt"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "2e0f8752-c4f8-4298-9ca8-f0f21bd78283",
+      "Hash": "PJSlt3GWPzA=",
+      "Size": 85,
+      "To": "profiles\\Skyrim Online\\settings.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "f9fb0292-ec4e-4128-8cc6-a79ebbb05a06",
+      "Hash": "/iKzFLd3VYc=",
+      "Size": 1895,
+      "To": "profiles\\Skyrim Online\\skyrim.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "a9a067d1-2b24-4cce-b505-3e77dd733579",
+      "Hash": "menYUTfbRu8=",
+      "Size": 0,
+      "To": "profiles\\Skyrim Online\\skyrimcustom.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "0d2db0ee-21c8-42be-ab63-89184138e118",
+      "Hash": "alP7hhiUF78=",
+      "Size": 3945,
+      "To": "profiles\\Skyrim Online\\skyrimprefs.ini"
+    }
+  ]
+}
