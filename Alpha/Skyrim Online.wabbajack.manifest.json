@@ -9,7 +9,7 @@
   "ModManager": 0,
   "ModManagerName": "MO2",
   "DownloadSize": 838478394,
-  "InstallSize": 2173141797,
+  "InstallSize": 2173141850,
   "IsNSFW": false,
   "Archives": [
     {
@@ -336,266 +336,266 @@
   "InlinedFiles": [
     {
       "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "eaf11989-ed84-4fc4-b5f5-5b02bb767544",
+      "SourceDataID": "57436f7e-f291-4c50-a56d-c4199adbc89f",
       "Hash": "ix0+lfyL0Hg=",
       "Size": 16146,
       "To": "ModOrganizer.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "93355bf7-c0a7-46b3-8f4c-d2258e1083fd",
+      "SourceDataID": "98f13f41-8204-45c1-93dd-8b2b8c1f4ea8",
       "Hash": "9FcQySWzISU=",
       "Size": 12281,
       "To": "mods\\Address Library\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "fddf993a-d839-44a7-b023-ed1037154c38",
+      "SourceDataID": "e4ec07cd-4265-4833-a739-89cbdf0396c5",
       "Hash": "aMsV/U3ZwoA=",
       "Size": 1820,
       "To": "mods\\Console Disabler\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "22ad4dc8-9f8b-4593-a546-15624e21cb79",
+      "SourceDataID": "9c1c54c4-79d8-41b0-9ef0-a6ce2b5c8470",
       "Hash": "oOMe/kv1l3k=",
       "Size": 1725,
       "To": "mods\\Disable Fast Travel\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "40416d9f-74be-4327-a888-3eeea139d060",
+      "SourceDataID": "8565dee8-10af-4752-bd14-cb59d4775857",
       "Hash": "kmLu49H60/8=",
       "Size": 2888,
       "To": "mods\\MCM\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8cad74f8-b7cf-4a9d-8cec-4b2157ce2f86",
+      "SourceDataID": "5f410cc5-4af1-4f3c-81cb-d1015e66f8a8",
       "Hash": "K4sDFVr8bw0=",
       "Size": 4673,
       "To": "mods\\NordWarUA's Vanilla Armor\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "692fa5a6-6766-4a80-881a-feda2ccaf43e",
+      "SourceDataID": "b4210ba9-4594-48a7-9b98-af1ccfdb2cc3",
       "Hash": "7CWHZ6NsEiI=",
       "Size": 3315,
       "To": "mods\\QUI\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "70676d63-2730-4309-bd0a-7eca8e50f4fa",
+      "SourceDataID": "a8e857b5-8913-4ad4-9c8a-1f0894b4062a",
       "Hash": "CGE3kjIkEEo=",
       "Size": 10934,
       "To": "mods\\Redux\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f217ed2c-650e-4bf4-afa1-f8435fe1e507",
+      "SourceDataID": "ba4a0b69-ae48-4bc9-9747-1f30cf74624d",
       "Hash": "pau1TUacMNk=",
       "Size": 2270,
       "To": "mods\\Skyrim Together Reborn\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c8a08848-bf4d-4c7a-9543-d94c90e24966",
+      "SourceDataID": "c2680486-beac-4165-97f8-c393cb6fe67f",
       "Hash": "yCD0CqkqU9I=",
       "Size": 822,
       "To": "mods\\SkyUI\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a61c5233-9288-44a9-a6cb-9a0b7c16a88c",
+      "SourceDataID": "82ebb1fa-f684-4977-979a-0202e61268d9",
       "Hash": "13dWSd8cX28=",
       "Size": 8453,
       "To": "mods\\TK Dodge\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a2412410-2777-4da0-b0cb-2d11272570c6",
+      "SourceDataID": "4ebe783f-defc-4b2f-90e2-358d1b97f9af",
       "Hash": "NeFoCSCuglM=",
       "Size": 24704,
       "To": "mods\\True Directional Movement\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0d3ba1ff-7d4b-41ab-96c4-3b929798fc5d",
+      "SourceDataID": "c4ce2d77-6657-40a4-839b-310fa1cd637e",
       "Hash": "3VGjHl1FV1I=",
       "Size": 19988,
       "To": "mods\\TrueHUD\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "dcd615b4-7f11-4e38-aa89-19eee4be5cd8",
+      "SourceDataID": "99926b5a-a9eb-48d0-9b00-985917330429",
       "Hash": "zSG5XC15IyM=",
       "Size": 3832,
       "To": "mods\\UI Extensions\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4901a35a-057f-4c27-b1ae-e87948a77273",
+      "SourceDataID": "e328ec00-f010-414d-aa39-33d67b86a6a4",
       "Hash": "28wPzyz6aPs=",
       "Size": 554,
       "To": "mods\\Unofficial Skyrim Special Edition Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "40bc5568-fcb4-4b4a-a5f4-e6409ceb07b8",
+      "SourceDataID": "611e9b68-dfa7-4f36-8ada-99e4a37a9106",
       "Hash": "pYQJC4Ptk7I=",
       "Size": 11929,
       "To": "mods\\WACC\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "74a15538-a7f5-41cb-ae60-f7aba42c54b2",
+      "SourceDataID": "37a1ae07-e816-4f20-a2c2-8933adb36899",
       "Hash": "27N/oa1HXVg=",
       "Size": 13526,
       "To": "mods\\Wildcat\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "30b0ac33-d84f-4a7e-a6a6-3bc26e0fac0f",
+      "SourceDataID": "8a6d21f1-9de6-4876-830a-32c5ee7acf39",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\┗ 🍀Combat Overhaul🍀┑_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "95091fa9-e9d6-4b6b-865f-913f0412bfd2",
+      "SourceDataID": "1a414d06-a933-46d6-990d-bc16bc537fb5",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\┗🍀 Patches 🍀┑_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5f99c910-bce8-4464-9d9f-dd4ea3bbc4c3",
+      "SourceDataID": "e11b0509-ae51-40ab-96c7-575b4775d42b",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\┗🍀 Utility 🍀┑_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "10f7439e-e9bc-487e-adad-d117e6a5d638",
+      "SourceDataID": "a6aef636-be6f-47f8-bb45-bfa768ddb2dd",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\┗🍀Animation🍀┑_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "343b2ea4-506e-4e17-88f4-f57aed27df7a",
+      "SourceDataID": "2225f621-3c7b-4d10-896e-0d1ce36f7672",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\┗🍀Armor🍀┑_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "cc8c5c2b-a034-49a9-85ef-d976518d64f0",
+      "SourceDataID": "b40e7be9-a538-4445-9d7c-478e5c73dd10",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\┗🍀Creatures🍀┑_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "27787a79-5127-4064-9953-4dc7d8891885",
+      "SourceDataID": "0617594a-ced1-457e-b54a-75d2f2515cb1",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\┗🍀General Overhaul🍀┑_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d58451de-3756-4578-bc8a-cfc69f7cc207",
+      "SourceDataID": "c29baf5d-bb03-4c76-bae3-185869f0eb28",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\┗🍀Graphics🍀┑_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3a3b45fc-09b6-4336-966e-7c500db780b3",
+      "SourceDataID": "54aaec3c-a652-4232-bebe-60de154f8899",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\┗🍀Quests🍀┑_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "bf783a64-1d29-4733-8768-612d3a37796b",
+      "SourceDataID": "1babf5f3-8657-4acc-8b3d-5c57204dd6f0",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\┗🍀UI🍀┑_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "117870e7-f3b8-4f01-82f8-4164f1f6e58f",
+      "SourceDataID": "0f8342be-b31e-4795-b979-3a56d5a29988",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\┗🍀Weapons🍀┑_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0b46bf7d-2d5b-41cf-b0c6-5bfba40bbcef",
+      "SourceDataID": "065c261f-e47a-43bd-95ae-b6a5eb456a31",
       "Hash": "ABCu0Rm9HGo=",
       "Size": 718,
       "To": "profiles\\Skyrim Online\\archives.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "be3454d8-ba3c-44ad-ae16-8614bdf3c4a8",
+      "SourceDataID": "4f20aa84-f536-4dfa-a7cc-1f38a4ae5d71",
       "Hash": "zH3GSffbvsA=",
       "Size": 36,
       "To": "profiles\\Skyrim Online\\initweaks.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "95a4679d-56a0-4209-970e-f9f2ae411d30",
+      "SourceDataID": "3ea422fd-b41d-4da8-b33e-7098b1d01aae",
       "Hash": "ftzCtWuL7J0=",
       "Size": 416,
       "To": "profiles\\Skyrim Online\\loadorder.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0942e3d3-5b53-474d-bd87-c61609cebc11",
+      "SourceDataID": "df12cbff-73ce-4571-ba53-7eb441457c25",
       "Hash": "CcflEOKPT3E=",
       "Size": 59,
       "To": "profiles\\Skyrim Online\\lockedorder.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "21539b81-dff2-479d-ab99-fbe45fbd8324",
+      "SourceDataID": "84e1ce7d-782a-4881-b6a1-7ada31cca169",
       "Hash": "5LOWa3rgLUo=",
       "Size": 770,
       "To": "profiles\\Skyrim Online\\modlist.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "04cfa4ea-0a34-40b3-9e72-24be052a7272",
+      "SourceDataID": "74c6eeb5-c2e2-4a12-a3fe-c29bd5c77ca1",
       "Hash": "nMt3A5ttE8I=",
       "Size": 356,
       "To": "profiles\\Skyrim Online\\plugins.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2e0f8752-c4f8-4298-9ca8-f0f21bd78283",
+      "SourceDataID": "a4be48ad-730f-4539-ab18-3a84dc7e94d5",
       "Hash": "PJSlt3GWPzA=",
       "Size": 85,
       "To": "profiles\\Skyrim Online\\settings.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f9fb0292-ec4e-4128-8cc6-a79ebbb05a06",
+      "SourceDataID": "bc8964ea-4f01-44f9-8058-6058bd2f561f",
       "Hash": "/iKzFLd3VYc=",
       "Size": 1895,
       "To": "profiles\\Skyrim Online\\skyrim.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a9a067d1-2b24-4cce-b505-3e77dd733579",
+      "SourceDataID": "9252d5ba-3c25-480f-9eb6-a82ace4785e3",
       "Hash": "menYUTfbRu8=",
       "Size": 0,
       "To": "profiles\\Skyrim Online\\skyrimcustom.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0d2db0ee-21c8-42be-ab63-89184138e118",
+      "SourceDataID": "41d4e548-b8b8-4969-83b4-5137663e89fb",
       "Hash": "alP7hhiUF78=",
       "Size": 3945,
       "To": "profiles\\Skyrim Online\\skyrimprefs.ini"
