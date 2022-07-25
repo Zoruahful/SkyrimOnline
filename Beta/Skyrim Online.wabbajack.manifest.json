@@ -8,8 +8,8 @@
   "GameName": "SkyrimSpecialEdition",
   "ModManager": 0,
   "ModManagerName": "MO2",
-  "DownloadSize": 14104046514,
-  "InstallSize": 14726497907,
+  "DownloadSize": 14120362247,
+  "InstallSize": 14770032155,
   "IsNSFW": false,
   "Archives": [
     {
@@ -550,6 +550,66 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
+      "Hash": "JiquaFCoK+E=",
+      "Meta": null,
+      "Name": "RaceMenu Anniversary Edition v0-4-19-11-19080-0-4-19-11-1657140512.7z",
+      "Size": 8507368,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "RaceMenu",
+        "Author": "Expired",
+        "Version": "0.4.19.11",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19080/29624-1533485825-2144769853.jpeg",
+        "IsNSFW": false,
+        "Description": "Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints. (Requires SKSE)",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 19080,
+        "FileID": 296729,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|19080|296729"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "Idanfi4Nfak=",
+      "Meta": null,
+      "Name": "SE -  Intense Combat - Stagger Experience-306-1-0.zip",
+      "Size": 61516,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "SE - Intense Combat Experience",
+        "Author": "Fillipe",
+        "Version": "f1.05",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/306/306-1535656376-676746658.png",
+        "IsNSFW": false,
+        "Description": "Increases the aggressiveness of enemies during battles and makes fighting more intense.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 306,
+        "FileID": 64468,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|306|64468"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "tXGyPxq5R4Q=",
+      "Meta": null,
+      "Name": "MCM Helper SE-53000-1-3-2-1637570704.zip",
+      "Size": 1220462,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "MCM Helper",
+        "Author": "Parapets",
+        "Version": "1.3.2.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53000/53000-1627746793-1514379922.png",
+        "IsNSFW": false,
+        "Description": "Simplifies the creation of Mod Configuration Menus and extends them with powerful new features, such as persistent INI settings and hotkey registration. Mod authors will be able to write simpler, cleaner Papyrus scripts for their configs. Players will be able to spend less time in menus.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 53000,
+        "FileID": 243418,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|53000|243418"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
       "Hash": "guVgHJI34SM=",
       "Meta": null,
       "Name": "Redux SE-66920-1-2-1651218027.zip",
@@ -566,6 +626,86 @@
         "ModID": 66920,
         "FileID": 280280,
         "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|66920|280280"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "dF2yafV2Oks=",
+      "Meta": null,
+      "Name": "SkyUI_5_2_SE-12604-5-2SE.7z",
+      "Size": 2783417,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "SkyUI",
+        "Author": "SkyUI Team",
+        "Version": "5.2.0.0SE",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/12604-0-1506820354.png",
+        "IsNSFW": false,
+        "Description": "Elegant, PC-friendly interface mod with many advanced features.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 12604,
+        "FileID": 35407,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|12604|35407"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "drsHJ4pZi98=",
+      "Meta": null,
+      "Name": "True Directional Movement (AE)-51614-2-2-1-1648078915.7z",
+      "Size": 1211162,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "True Directional Movement - Modernized Third Person Gameplay",
+        "Author": "Ersh",
+        "Version": "2.2.1.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51614/51614-1627839075-1842122342.gif",
+        "IsNSFW": false,
+        "Description": "Overhauls the third person gameplay similarly to modern action RPGs, entirely through SKSE. Move and attack in any direction. Includes a custom target lock component and animated healthbar widget, target headtracking, projectile aim support during target lock, boss bars, mount support and more! Modular and customizable through MCM.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 51614,
+        "FileID": 272083,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|51614|272083"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "f7NsTLRXpQw=",
+      "Meta": null,
+      "Name": "TrueHUD (AE)-62775-1-1-4-1648214882.7z",
+      "Size": 289212,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "TrueHUD - HUD Additions",
+        "Author": "Ersh",
+        "Version": "1.1.4.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62775/62775-1643737629-1125862080.png",
+        "IsNSFW": false,
+        "Description": "HUD additions formerly included in True Directional Movement, completely reworked and improved! Very customizable actor info bars, boss bars, player widget and an API for other plugins to use. Modular and customizable through MCM.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 62775,
+        "FileID": 272399,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|62775|272399"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "h3zvfuMVfMo=",
+      "Meta": null,
+      "Name": "Ultimate Combat SE-17196-3-5-1579966717.7z",
+      "Size": 1393395,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Ultimate Combat SE",
+        "Author": "tktk",
+        "Version": "3.5.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17196/36006-1526138367-285171649.jpeg",
+        "IsNSFW": false,
+        "Description": "This mod is combat overhaul mod focusing on enhanced game enjoyment and ease of play.\n\nThe goal is to bring Skyrim closer to a neat action game than to increase difficulty and reality.\n\nEnemies acts are various, dash attacks, continuous attacks, dodge, great spell, cooperating act, get angry, and more...",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 17196,
+        "FileID": 121117,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|17196|121117"
       }
     },
     {
@@ -645,6 +785,26 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
+      "Hash": "VlVFE2DK9xI=",
+      "Meta": null,
+      "Name": "TK Dodge SE-15309-3-18-1574502132.7z",
+      "Size": 433659,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "TK Dodge SE",
+        "Author": "tktk",
+        "Version": "3.18.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/15309/20923-1518780532-319834776.jpeg",
+        "IsNSFW": false,
+        "Description": "This mod adds dodge animation of using key press when player drawn weapons,spell,staff and unarmed.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 15309,
+        "FileID": 114159,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|15309|114159"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
       "Hash": "v3cooByMZWo=",
       "Meta": null,
       "Name": "All in one (Anniversary Edition)-32444-5-1641492622.zip",
@@ -685,6 +845,26 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
+      "Hash": "qzj+G03lxhY=",
+      "Meta": null,
+      "Name": "TK Dodge RE-v0.5 -AE-56956-v0-5-1657941951.7z",
+      "Size": 328093,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "TK Dodge RE - Script Free",
+        "Author": "Maxsu and FBplus and Loop",
+        "Version": "0.5.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56956/56956-1634025087-1364057633.png",
+        "IsNSFW": false,
+        "Description": "TK dodge script free remake edition, also with several features improvement.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 56956,
+        "FileID": 299308,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|56956|299308"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
       "Hash": "szOA5XL58TQ=",
       "Meta": null,
       "Name": "DynamicAnimationReplacer v1.1.2 for SkyrimAE-33746-1-1-2-1640873618.7z",
@@ -701,6 +881,26 @@
         "ModID": 33746,
         "FileID": 252668,
         "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|33746|252668"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "GqhDhiwyAnI=",
+      "Meta": null,
+      "Name": "IFrame Generator-v0.91-56965-v0-91-1634047588.7z",
+      "Size": 87449,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "IFrame Generator",
+        "Author": "Maxsu and FBplus",
+        "Version": "0.91.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56965/56965-1634047515-1355282354.png",
+        "IsNSFW": false,
+        "Description": "A SKSE plugin that allow you to generate invincibility frames for animations in a script free way.",
+        "GameName": "SkyrimSpecialEdition",
+        "ModID": 56965,
+        "FileID": 234371,
+        "PrimaryKeyString": "NexusDownloader+State|SkyrimSpecialEdition|56965|234371"
       }
     },
     {
@@ -1027,294 +1227,378 @@
   "InlinedFiles": [
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3076b221-af86-4190-baa4-a48ad5ac45e8",
+      "SourceDataID": "75e2772e-a99b-48e1-b9c1-696f76db9db1",
       "Hash": "hGwfMvkWrkI=",
       "Size": 49,
       "To": "dump_running_process.bat"
     },
     {
       "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "6286e08d-af27-407e-a102-8156412989ba",
+      "SourceDataID": "0228d027-3304-4fce-a9e9-f3177a4637d3",
       "Hash": "EXrQStfEoIc=",
       "Size": 13668,
       "To": "ModOrganizer.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "143eb2a8-b0ba-4049-89a1-b8a3321123b9",
+      "SourceDataID": "3f586a22-9734-4ed4-8874-280837cbcb04",
       "Hash": "6xW6jZ1+Mgg=",
       "Size": 6,
       "To": "Game Root\\steam_appid.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8d4cdf65-9141-46f6-9d1b-71d9f80145ec",
+      "SourceDataID": "e87f4d7c-c8dd-4953-8e7a-b6cb45d6fe9b",
       "Hash": "b0qdnRA6UQs=",
       "Size": 14,
       "To": "Game Root\\WABBAJACK_NOMATCH_INCLUDE_FILES.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e53d8723-16b3-418b-b67c-61b9f24c55f3",
+      "SourceDataID": "8d19965f-62df-4039-8d88-35f3d8a8dd75",
       "Hash": "48JEUjWBDlM=",
       "Size": 12281,
       "To": "mods\\Address Library\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "bb497cb0-2870-4bd2-9c05-c2e35cefcfa5",
+      "SourceDataID": "b2792d0e-d57d-4a83-a145-dc63e8eac917",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Animations_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0a65354a-dd4d-4dc8-9684-7cdca003dd39",
+      "SourceDataID": "894bcddd-0135-4cb6-82d6-ca29325a5f0d",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Anti-cheat_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "807a59b8-f4ff-4e63-ae80-3f958410b8f1",
+      "SourceDataID": "f1b4a30f-9dac-4907-b1e0-46923023ee7a",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Base_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "88b8bc5e-aaef-4f5c-a4c9-08ced132d4d2",
+      "SourceDataID": "bb70af15-827b-435b-94a0-a2f20f955db0",
       "Hash": "z47ack96emU=",
       "Size": 1605,
       "To": "mods\\Better Jumping\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8dda7e82-1707-4aaa-b37e-458900408ea4",
+      "SourceDataID": "3e5cf7aa-a17f-4869-9dd8-9319e8c55b75",
+      "Hash": "3s2NPUtBTok=",
+      "Size": 21078,
+      "To": "mods\\Character Menu\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "dccb9d53-7942-4aa7-a4d8-111292ff5dd7",
+      "Hash": "7NfdJqPKj38=",
+      "Size": 105,
+      "To": "mods\\Character_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "0e7b746c-8f49-4bb2-b110-b0ad20225788",
+      "Hash": "7NfdJqPKj38=",
+      "Size": 105,
+      "To": "mods\\Combat_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "b343094d-cd44-49fb-bb55-48ef780ac7d7",
+      "Hash": "GV+pWNQw4FE=",
+      "Size": 9976,
+      "To": "mods\\Dodge\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "e4e65a26-5179-49e7-950b-2844ed5c7c1f",
       "Hash": "GkkbZMZ1oxQ=",
       "Size": 17431,
       "To": "mods\\Dynamic Animation Replacer\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f651e0eb-cd23-42c7-9d92-64f2d0553ea3",
+      "SourceDataID": "86b7b782-d4f8-4224-a1be-aa4e060edb0b",
       "Hash": "WaXvmqN+KUY=",
       "Size": 5161,
       "To": "mods\\Goetia Enchanted Staves\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "74c0a9d8-40e0-4059-bce3-2cd18af1fc0f",
+      "SourceDataID": "67d64d76-b206-49e2-bda1-9ec22ab07f8c",
       "Hash": "GQv3C5Ytf9I=",
       "Size": 5047,
       "To": "mods\\Goetia Female Idle Walk And Run\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "98029e13-6c9b-46c3-8b28-293effbcc7ee",
+      "SourceDataID": "23dbd19a-3e06-43d0-8b7a-080cda5e719b",
       "Hash": "sLIv09Rid6I=",
       "Size": 6754,
       "To": "mods\\Goetia Magic Spell\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f857a6c0-e9f7-43c8-824f-4aca274b98ff",
+      "SourceDataID": "2bd77d7c-6b39-41c4-a0d0-1c19f745bd43",
       "Hash": "Ll+10gcTHQo=",
       "Size": 4570,
       "To": "mods\\Goetia Male Idle Walk And Run\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "dfa7a26a-dcba-4341-8860-bff4c23beb30",
+      "SourceDataID": "8b8a52ca-172c-4a2f-9a24-fa6cec149e57",
       "Hash": "mh/vQvOO/do=",
       "Size": 4569,
       "To": "mods\\Goetia Sprint\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "7a9ff4d3-59e0-44e7-a35c-63d475fd777a",
+      "SourceDataID": "b2aa1fe1-5f24-4ea6-b774-4680c692ee53",
+      "Hash": "9z+TiTdVaT8=",
+      "Size": 2576,
+      "To": "mods\\IFrame\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "88b30352-ff6a-4ecd-a11a-32fa2bd08214",
+      "Hash": "jHWoghXXXow=",
+      "Size": 2527,
+      "To": "mods\\Intense Combat\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "18f3ce55-2842-4feb-b69d-be00bbd57f82",
       "Hash": "fB4DZ8IKaPk=",
       "Size": 2820,
       "To": "mods\\Leviathan Two-Handed High Stance\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "15a00229-7c4e-4623-8a76-1ebbacbea22a",
+      "SourceDataID": "9fc008aa-827c-43ea-9d38-c6119547dd1e",
       "Hash": "3KIohe/x7bE=",
       "Size": 3293,
       "To": "mods\\Leviathan Two-Handed Normal Attacks\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8fd85459-16ab-42de-b229-3c5739dca10d",
+      "SourceDataID": "4703a47e-95f3-4cf3-9434-4c5a4472825c",
       "Hash": "ePXGYkiC0Ec=",
       "Size": 4010,
       "To": "mods\\Leviathan Two-Handed Power Attacks\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "43af7eb6-7beb-4b00-94bb-d94a7082c109",
+      "SourceDataID": "096cb006-9ac5-459b-94b2-db24c893e060",
+      "Hash": "ZTyF4FyfKyI=",
+      "Size": 2888,
+      "To": "mods\\MCM Helper\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "829d401c-54d9-446e-a3be-477698310caf",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Questing_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a475a933-1c8a-4018-9ecc-e71f566fd571",
+      "SourceDataID": "18383808-58bf-4a13-9018-59cf97600e52",
       "Hash": "lQXPZvtgEjA=",
       "Size": 10945,
       "To": "mods\\Redux\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "60f9867b-ce9b-4728-879d-1ceb71ba7ffe",
+      "SourceDataID": "9ae7cf61-6295-4a37-b62e-798f85ccb972",
       "Hash": "mOzDZp23Ok8=",
       "Size": 526,
       "To": "mods\\Skyrim Script Extender\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "30b6da86-f7df-4b27-b72a-0b47fd2b276b",
+      "SourceDataID": "4f944457-daf7-4772-8e17-0f0875e5bc16",
       "Hash": "UhrdXdaisHw=",
       "Size": 2269,
       "To": "mods\\Skyrim Together Reborn\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d522d2a3-afbb-4b51-b704-9d7e248e771b",
+      "SourceDataID": "21dccc2c-cf1e-4250-8e3a-11ff8c6e8f8e",
+      "Hash": "dd0oL5l3PZ4=",
+      "Size": 822,
+      "To": "mods\\SkyUI\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "d9eb284d-fa5d-4049-8d4f-02fe852adae7",
+      "Hash": "7z7wTFm07Vo=",
+      "Size": 24704,
+      "To": "mods\\True Directional Movement\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "85d740b7-45fe-4972-91bd-fce0f66b4f5e",
+      "Hash": "6lUxE5+uVsY=",
+      "Size": 19988,
+      "To": "mods\\TrueHUD\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "ff4a9c48-fe6a-4fa5-a244-e7bff7dd777b",
+      "Hash": "7NfdJqPKj38=",
+      "Size": 105,
+      "To": "mods\\UI_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "1675ed16-bd27-4748-bd30-6b65e8660599",
+      "Hash": "a2Dhp+t+vsk=",
+      "Size": 21267,
+      "To": "mods\\Ultimate Combat\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "ebfd904a-b0f1-4d15-907b-48119bb5eb0d",
       "Hash": "8LwkM+q5NyA=",
       "Size": 554,
       "To": "mods\\USSEP\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8653df0b-a024-4255-a5d4-23ed89763d9a",
+      "SourceDataID": "6c80e70b-c2d7-49ac-8635-1f7004bf9195",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Utilities_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6b49f6a4-09b5-4961-8780-d58ca86792a8",
+      "SourceDataID": "afef3fc5-c6f5-4e10-9cdd-714a7a6025eb",
       "Hash": "CdSpaqSsMnA=",
       "Size": 6291,
       "To": "mods\\Vanargand Archery\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "612431e5-8e69-4807-ab5d-58890a400578",
+      "SourceDataID": "ba09a452-f640-45a8-8936-a7fa87484d73",
       "Hash": "s3BomdiDing=",
       "Size": 5005,
       "To": "mods\\Vanargand Crossbows\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b16c3353-24f6-41d1-90e5-c935d86b78b1",
+      "SourceDataID": "f49de4d9-b14b-4f9d-95ed-79b86ff8a606",
       "Hash": "kWfCQhdLwFY=",
       "Size": 5841,
       "To": "mods\\Vanargand Dual Wield Normal and Power Attacks\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b29c7de8-4333-4197-a707-a4e794f1883e",
+      "SourceDataID": "5d4755b6-2d77-497d-a460-6f88b32d1eca",
       "Hash": "zMWmbY0yiv8=",
       "Size": 5269,
       "To": "mods\\Vanargand Dual Wield Sneak Strikes\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "731958e2-f4c9-41cf-aa55-db456a686ef4",
+      "SourceDataID": "93cd7dff-bbda-4b6a-b29d-f62053bce760",
       "Hash": "Pxjfx3pZUMU=",
       "Size": 5254,
       "To": "mods\\Vanargand Dual Wield Sneak Thrusts\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1d74b34d-bff8-4b94-877c-30e6d4a68a8e",
+      "SourceDataID": "8f5c01e1-fc5e-4bfd-8c0c-3b9229b7aee3",
       "Hash": "QtzOPmQr8b0=",
       "Size": 6025,
       "To": "mods\\Vanargand One Handed Normal Attacks\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2406b4aa-15fe-46ac-8d79-a9e0b63ba795",
+      "SourceDataID": "2581e493-7330-4b7a-ac0b-2d7abd617f0f",
       "Hash": "GxPd3nCzodI=",
       "Size": 6263,
       "To": "mods\\Vanargand One Handed Power Attacks\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "7ef2a696-a92e-4f21-a2de-6ce33d5adb71",
+      "SourceDataID": "5ab6c458-7e7e-4440-8c98-7baaffca34d4",
       "Hash": "6cpmvqjmWBM=",
       "Size": 5424,
       "To": "mods\\Vanargand Sneak Crossbows\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2779b610-b615-49d4-82de-623296182b21",
-      "Hash": "U++or8zP3CM=",
-      "Size": 497,
+      "SourceDataID": "244c58ad-b62f-4643-a351-cbb6697faa2a",
+      "Hash": "PiegZlDkTDg=",
+      "Size": 540,
       "To": "profiles\\Skyrim Online\\archives.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "fcb3a53c-20ac-40fe-8fc7-4dd4b5285736",
+      "SourceDataID": "5e9ee939-f500-4794-8bc4-cf353b46384b",
       "Hash": "zH3GSffbvsA=",
       "Size": 36,
       "To": "profiles\\Skyrim Online\\initweaks.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "df8a0ecc-a1bc-4c2d-807d-08849cbc1f8a",
-      "Hash": "RMXCeMTl9Z8=",
-      "Size": 187,
+      "SourceDataID": "0e7d797d-7a9e-47a8-b181-f03e5e079192",
+      "Hash": "LPlSYbxkblA=",
+      "Size": 353,
       "To": "profiles\\Skyrim Online\\loadorder.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3b73ed1c-359f-4b46-90f7-e43fccc500b1",
+      "SourceDataID": "73e9788e-3d9c-4466-9bdc-e4b4ddf150ef",
       "Hash": "CcflEOKPT3E=",
       "Size": 59,
       "To": "profiles\\Skyrim Online\\lockedorder.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e93b67b8-ab72-4c9e-9a20-22c0f1eb5380",
-      "Hash": "yIqlKpuwZkg=",
-      "Size": 855,
+      "SourceDataID": "e7039f4d-5fc4-49da-9b2e-004550cf6112",
+      "Hash": "TiaWUXKNoFo=",
+      "Size": 1039,
       "To": "profiles\\Skyrim Online\\modlist.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "30ce705b-2f83-47fa-b955-c6442bcef71d",
-      "Hash": "SPiCoqUH+I4=",
-      "Size": 117,
+      "SourceDataID": "ff2ed90b-64f7-44cf-88e7-738b6c22ffb0",
+      "Hash": "r0Wuj7V0SRI=",
+      "Size": 291,
       "To": "profiles\\Skyrim Online\\plugins.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "7f67cef6-7247-44f3-81da-26cc4b39fcda",
+      "SourceDataID": "87a59f2b-6a42-4915-99ab-841bde859b07",
       "Hash": "PJSlt3GWPzA=",
       "Size": 85,
       "To": "profiles\\Skyrim Online\\settings.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "13354819-dc9c-4267-a3a2-41db42fca755",
+      "SourceDataID": "19b43454-25b3-4b72-8b02-3c10672bb5a8",
       "Hash": "/iKzFLd3VYc=",
       "Size": 1895,
       "To": "profiles\\Skyrim Online\\skyrim.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d9358ef1-df2f-4ee3-ac9a-c879c44a1be2",
+      "SourceDataID": "51e48a80-816a-45bf-a6b2-e5f9b7f98245",
       "Hash": "menYUTfbRu8=",
       "Size": 0,
       "To": "profiles\\Skyrim Online\\skyrimcustom.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "58a1bb94-ae41-4935-9148-3ffe21ff6c78",
+      "SourceDataID": "ea89772a-4659-4d8d-88ef-e8e9110b066b",
       "Hash": "alP7hhiUF78=",
       "Size": 3945,
       "To": "profiles\\Skyrim Online\\skyrimprefs.ini"
